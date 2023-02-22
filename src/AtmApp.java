@@ -7,5 +7,7 @@ public class AtmApp {
         //version4
         System.out.println("Git'i ogrenmek cok kolaygit commit ");
         System.out.println("zahide branch'i yeni bir ozellik ekledi");
+        //master
+        System.out.println("master branch yeni oz var");
     }
 }
