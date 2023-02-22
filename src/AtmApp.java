@@ -9,5 +9,7 @@ public class AtmApp {
         System.out.println("zahide branch'i yeni bir ozellik ekledi");
         //master
         System.out.println("master branch yeni oz var");
+        //zhde
+        System.out.println("zahide branchi bir adim onde");
     }
 }
