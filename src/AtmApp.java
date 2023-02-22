@@ -11,5 +11,6 @@ public class AtmApp {
         System.out.println("master branch yeni oz var");
         //zhde
         System.out.println("zahide branchi bir adim onde");
+        System.out.println("bazi degisiklikler yatim ancak commitlemedim");
     }
 }
