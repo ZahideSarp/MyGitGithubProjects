@@ -6,5 +6,6 @@ public class AtmApp {
         System.out.println("Learn java Earn Money");
         //version4
         System.out.println("Git'i ogrenmek cok kolaygit commit ");
+        System.out.println("zahide branch'i yeni bir ozellik ekledi");
     }
 }
