@@ -12,5 +12,6 @@ public class AtmApp {
         //zhde
         System.out.println("zahide branchi bir adim onde");
         System.out.println("bazi degisiklikler yatim ancak commitlemedim");
+        System.out.println("");
     }
 }
