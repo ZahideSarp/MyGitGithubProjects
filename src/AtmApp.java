@@ -13,5 +13,6 @@ public class AtmApp {
         System.out.println("zahide branchi bir adim onde");
         System.out.println("bazi degisiklikler yatim ancak commitlemedim");
         System.out.println("yeni degisiklikler");
+        System.out.println("master branchimdeyim");
     }
 }
